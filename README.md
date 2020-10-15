@@ -1,2 +1,2 @@
-# Cleaning_Health_Data
-Personal Project to Show Data Cleaning, EDA, and Visualization Skills
+# Cleaning Health Data
+This repository contains a personal project to show my data cleaning, EDA, and visualization skills. My ongoing process will be updated with individual notebooks for each step in the cleaning/EDA/visualization process. 

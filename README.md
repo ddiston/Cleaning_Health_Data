@@ -8,3 +8,4 @@ This repository contains a personal project to show my data cleaning, EDA, and v
 
 ### Current Contents:
 01_Introduction
+02_Removing_NaN

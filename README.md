@@ -4,7 +4,6 @@ This repository contains a personal project to show my data cleaning, EDA, and v
 ### Required Libraries
     - NumPy
     - Pandas
-    
     - Matplotlib
 
 ### Current Contents:
